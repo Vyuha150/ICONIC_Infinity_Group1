@@ -7,7 +7,7 @@ const features = [
     ),
     title: 'Comprehensive Portfolio',
     desc: 'Access our extensive portfolio showcasing our diverse verticals, completed projects, and success stories across multiple industries.',
-    link: '#',
+    link: '/portfolio',
   },
   {
     icon: (
@@ -15,7 +15,7 @@ const features = [
     ),
     title: 'Innovative Solutions',
     desc: 'Experience our world-class innovative methodologies, technologies, and procedures that deliver exceptional customer experiences.',
-    link: '#',
+    link: '/innovation',
   },
   {
     icon: (

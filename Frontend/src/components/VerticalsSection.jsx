@@ -27,6 +27,7 @@ const Verticals = [
     description:
       "Right Homes turns your dream home into reality with customized construction solutions that prioritize quality craftsmanship, innovative design, and sustainable building practices.",
     imageUrl: righthomes,
+    link: "/services#righthomes",
   },
 ];
 
